@@ -1,6 +1,5 @@
 ## RII function
 require(reshape2)
-require(metafor)
 require(tidyverse)
 
 rii.fun <- function(data, compare, treat, control){
